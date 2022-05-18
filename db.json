@@ -1,4 +1,76 @@
 {
  "Networking-Corporate-Backbone": [
+  {
+      "u_service": "Networking - Corporate Backbone",
+      "u_metric_type": "availability",
+      "u_location": "Belgrade",
+      "u_metric_date": "2022-05-10",
+      "u_value": 100.0,
+      "u_target": "99.99"
+    },
+    {
+      "u_service": "Networking - Corporate Backbone",
+      "u_metric_type": "availability",
+      "u_location": "Iowa",
+      "u_metric_date": "2022-05-10",
+      "u_value": 100.0,
+      "u_target": "99.99"
+    },
+    {
+      "u_service": "Networking - Corporate Backbone",
+      "u_metric_type": "availability",
+      "u_location": "Hurth",
+      "u_metric_date": "2022-05-10",
+      "u_value": 100.0,
+      "u_target": "99.99"
+    },
+    {
+      "u_service": "Networking - Corporate Backbone",
+      "u_metric_type": "availability",
+      "u_location": "Iasi",
+      "u_metric_date": "2022-05-10",
+      "u_value": 100.0,
+      "u_target": "99.99"
+    },
+    {
+      "u_service": "Networking - Corporate Backbone",
+      "u_metric_type": "availability",
+      "u_location": "Ismaning",
+      "u_metric_date": "2022-05-10",
+      "u_value": 100.0,
+      "u_target": "99.99"
+    },
+    {
+      "u_service": "Networking - Corporate Backbone",
+      "u_metric_type": "availability",
+      "u_location": "Beeston",
+      "u_metric_date": "2022-05-10",
+      "u_value": 100.0,
+      "u_target": "99.99"
+    },
+    {
+      "u_service": "Networking - Corporate Backbone",
+      "u_metric_type": "availability",
+      "u_location": "Kirkland",
+      "u_metric_date": "2022-05-10",
+      "u_value": 100.0,
+      "u_target": "99.99"
+    },
+    {
+      "u_service": "Networking - Corporate Backbone",
+      "u_metric_type": "availability",
+      "u_location": "Santa Clara",
+      "u_metric_date": "2022-05-10",
+      "u_value": 100.0,
+      "u_target": "99.99"
+    },
+    {
+      "u_service": "Networking - Corporate Backbone",
+      "u_metric_type": "availability",
+      "u_location": "Sofia",
+      "u_metric_date": "2022-05-10",
+      "u_value": 99.81,
+      "u_target": "99.99"
+    }
       ]
 }
