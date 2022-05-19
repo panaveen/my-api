@@ -1,6 +1,7 @@
 {
  "Networking-Corporate-Backbone": [
   {
+      "id": 1
       "u_service": "Networking - Corporate Backbone",
       "u_metric_type": "availability",
       "u_location": "Belgrade",
@@ -9,6 +10,7 @@
       "u_target": "99.99"
     },
     {
+      "id": 2
       "u_service": "Networking - Corporate Backbone",
       "u_metric_type": "availability",
       "u_location": "Iowa",
